@@ -1,0 +1,9 @@
+[
+    {
+        "usuario": "teste1",
+        "senha": "$2b$12$SDH6TFBeeP.N8qSF.7vA1O/oFTMcwQVFgIIViszPoQhuq2yJk9p9a",
+        "tipo": "usuario",
+        "genero": "masculino",
+        "idade": 18
+    }
+]
